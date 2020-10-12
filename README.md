@@ -2,10 +2,6 @@
 
 > iOS开发
 
-> $\color{#FF0000}{iOS开发}$
-
-> $\color{#FF0000}{红色} $
-
 `iOS` `Java` `flutter`
 
 **欢迎通过以下方式了解我**

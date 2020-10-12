@@ -1,7 +1,9 @@
 <img src="https://upload-images.jianshu.io/upload_images/2528425-f599efb894329924.JPG?imageMogr2/auto-orient/strip|imageView2/2/w/100" />
 
 > iOS开发
-> $\color{#FF0000}{iOS开发} $
+
+> $\color{#FF0000}{iOS开发}$
+
 `iOS` `Java` `flutter`
 
 **欢迎通过以下方式了解我**

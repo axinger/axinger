@@ -1,5 +1,6 @@
-### Hi there 👋
-- 🔭 I’m currently working on ...
+### 👋👋👋
+
+`iOS` `Java` `flutter`
 
 **欢迎通过以下方式了解我**
 > **简书** https://www.jianshu.com/u/332ecb51d41b

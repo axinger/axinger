@@ -1,6 +1,9 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=axinger&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=AXiOSKit)](https://github.com/axinger/AXiOSKit)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=AXiOSKit)](https://github.com/axinger/ax_flutter_demo)
+
+
 > iOS开发
 
 `iOS` `Java` `flutter`

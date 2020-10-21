@@ -4,14 +4,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axinger&layout=compact)](https://github.com/axinger/axinger.git)
 
-> ## resource:
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=picture)](https://github.com/axinger/picture.git)
-
-> **Xcode Code Snippets:** 
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=XcodeCodeSnippets)](https://github.com/axinger/XcodeCodeSnippets.git)
-
 
 > **iOS:** 
 
@@ -39,6 +31,13 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=html)](https://github.com/axinger/html.git)
 
+> ## resource:
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=picture)](https://github.com/axinger/picture.git)
+
+> **Xcode Code Snippets:** 
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=XcodeCodeSnippets)](https://github.com/axinger/XcodeCodeSnippets.git)
 
 
 **欢迎通过以下方式了解我**

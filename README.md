@@ -2,12 +2,13 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=AXiOSKit)](https://github.com/axinger/AXiOSKit.git)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=AXFoundation)](https://github.com/axinger/AXFoundation.git)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=AXSwiftKit)](https://github.com/axinger/AXSwiftKit.git)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=SpringBootDemo)](https://github.com/axinger/SpringBootDemo.git)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=ax_flutter_demo)](https://github.com/axinger/ax_flutter_demo.git)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=ax_flutter_util)](https://github.com/axinger/ax_flutter_util.git)
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=ax_flutter_plugin)](https://github.com/axinger/ax_flutter_plugin.git)
 
 > iOS开发
 

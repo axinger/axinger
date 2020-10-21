@@ -4,6 +4,14 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axinger&layout=compact)](https://github.com/axinger/axinger.git)
 
+> **resource:** 
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=picture)](https://github.com/axinger/picture.git)
+
+> **Xcode Code Snippets:** 
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=XcodeCodeSnippets)](https://github.com/axinger/XcodeCodeSnippets.git)
+
 
 > **iOS:** 
 
@@ -24,8 +32,8 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=ax_flutter_util)](https://github.com/axinger/ax_flutter_util.git)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=ax_flutter_plugin)](https://github.com/axinger/ax_flutter_plugin.git)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=ax_flutter_toast)](https://github.com/axinger/ax_flutter_toast.git)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=ax_flutter_platform_demo)](https://github.com/axinger/ax_flutter_platform_demo.git)
 
-> HTML
 
 > **html:** 
 

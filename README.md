@@ -1,10 +1,4 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=axinger&show_icons=true&theme=cobalt&title_color=0xFF87CEEB)](https://github.com/axinger/axinger.git)
-
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
-    </a>
-  </p>
   
 `iOS` `Java` `flutter`
 

@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axinger&layout=compact)](https://github.com/axinger/axinger.git)
 
-> **resource:** 
+> ## resource:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=picture)](https://github.com/axinger/picture.git)
 

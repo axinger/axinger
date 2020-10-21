@@ -2,7 +2,6 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=AXiOSKit)](https://github.com/axinger/AXiOSKit)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=ax_flutter_demo)](https://github.com/axinger/ax_flutter_demo)
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=ax_flutter_demo)](https://github.com/axinger/ax_flutter_demo.git)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=SpringBootDemo)](https://github.com/axinger/SpringBootDemo.gitt)

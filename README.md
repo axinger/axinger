@@ -1,10 +1,13 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=axinger&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=AXiOSKit)](https://github.com/axinger/AXiOSKit)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=ax_flutter_demo)](https://github.com/axinger/ax_flutter_demo)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=ax_flutter_demo)](https://github.com/axinger/ax_flutter_demo.git)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=AXiOSKit)](https://github.com/axinger/AXiOSKit.git)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=AXFoundation)](https://github.com/axinger/AXFoundation.git)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=SpringBootDemo)](https://github.com/axinger/SpringBootDemo.gitt)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=SpringBootDemo)](https://github.com/axinger/SpringBootDemo.git)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=ax_flutter_demo)](https://github.com/axinger/ax_flutter_demo.git)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=ax_flutter_util)](https://github.com/axinger/ax_flutter_util.git)
+
 
 > iOS开发
 

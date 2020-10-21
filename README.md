@@ -1,10 +1,10 @@
 `iOS` `Java` `flutter`
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=axinger&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=axinger&show_icons=true&theme=cobalt&title_color=0xFF87CEEB)](https://github.com/anuraghazra/github-readme-stats)
 
 > **iOS:** 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=AXiOSKit&title_color=#FFB6C1)](https://github.com/axinger/AXiOSKit.git)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=AXiOSKit&layout=compact)](https://github.com/axinger/AXiOSKit.git)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=AXFoundation)](https://github.com/axinger/AXFoundation.git)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=AXSwiftKit)](https://github.com/axinger/AXSwiftKit.git)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=AXmacOSDemo)](https://github.com/axinger/AXmacOSDemo.git)

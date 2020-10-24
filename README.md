@@ -40,6 +40,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=XcodeCodeSnippets)](https://github.com/axinger/XcodeCodeSnippets.git)
 
+<img src="https://s1.ax1x.com/2020/10/24/BZwJ8x.png" width=50>
 
 **欢迎通过以下方式了解我**
 > **GitHub:** https://github.com/axinger

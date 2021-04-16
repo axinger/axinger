@@ -6,6 +6,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axinger&layout=compact)](https://github.com/axinger/axinger.git)
 
 
+> **笔记:** 
+> 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=README)](https://github.com/axinger/README.git)
+
 > **iOS:** 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=AXiOSKit)](https://github.com/axinger/AXiOSKit.git)

@@ -12,7 +12,8 @@
 
 > **go:**
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=ax_go_web)](https://github.com/axinger/ax_go_web.git)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=ax-go-web)]
+(https://github.com/axinger/ax-go-web.git)
 
 
 > **JavaWeb:** 

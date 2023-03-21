@@ -17,7 +17,7 @@
 
 > **JavaWeb:** 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=ax_spring_boot_demo)](https://github.com/axinger/ax_spring_boot_demo.git)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=ax-spring-boot-demo)](https://github.com/axinger/ax-spring-boot-demo.git)
 
 > **html:** 
 
@@ -40,10 +40,6 @@
 
 <img src="https://s1.ax1x.com/2020/10/24/BZwJ8x.png" width=50>
 
-**欢迎通过以下方式了解我**
-> **GitHub:** https://github.com/axinger
->
-> **简书：** https://www.jianshu.com/u/332ecb51d41b
 
 <!--
 

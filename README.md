@@ -6,27 +6,27 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axinger&layout=compact)](https://github.com/axinger/axinger.git)
 
 
-> **笔记:** 
-> 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=README)](https://github.com/axinger/README.git)
 
 
-> **JavaWeb:** 
-
+> **后端:** 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=ax-spring-boot-demo)](https://github.com/axinger/ax-spring-boot-demo.git)
-
-> **go:**
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=ax-go-web)](https://github.com/axinger/ax-go-web.git)
 
 
-> **html:** 
+> **大数据:** 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=ax-hadoop-demo)](https://github.com/axinger/ax-hadoop-demo.git)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=ax-flink-demo)](https://github.com/axinger/ax-flink-demo.git)
 
+
+> **前端:** 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=ax-html-demo)](https://github.com/axinger/ax-html-demo.git)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=ax-vue2-demoo)](https://github.com/axinger/ax-vue2-demo.git)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=ax-vue3-demo)](https://github.com/axinger/ax-vue3-demo.git)
 
 
+> **笔记:** 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=README)](https://github.com/axinger/README.git)
 > **图片资源:**
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=ax_picture)](https://github.com/axinger/ax_picture.git)
 
 
@@ -38,10 +38,6 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=ax_flutter_toast)](https://github.com/axinger/ax_flutter_toast.git)
 
 
-> **大数据:** 
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=ax-hadoop-demo)](https://github.com/axinger/ax-hadoop-demo.git)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=ax-flink-demo)](https://github.com/axinger/ax-flink-demo.git)
 
 <img src="https://s1.ax1x.com/2020/10/24/BZwJ8x.png" width=50>
 

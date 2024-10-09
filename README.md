@@ -38,6 +38,10 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=ax_flutter_toast)](https://github.com/axinger/ax_flutter_toast.git)
 
 
+> **大数据:** 
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=ax-hadoop-demo)](https://github.com/axinger/ax-hadoop-demo.git)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=ax-flink-demo)](https://github.com/axinger/ax-flink-demo.git)
 
 <img src="https://s1.ax1x.com/2020/10/24/BZwJ8x.png" width=50>
 

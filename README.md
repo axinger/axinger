@@ -1,32 +1,37 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=axinger&show_icons=true&theme=cobalt&title_color=0xFF87CEEB)](https://github.com/axinger/axinger)
 
-`go` `Java` `flutter` `docker`
+`go` `Java` `flutter` `docker` `bigdata` `flink` `hadoop`
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axinger&layout=compact)](https://github.com/axinger/axinger.git)
 
 
 
-
-> **后端:** 
+> **后端:**
+> 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=ax-spring-boot-demo)](https://github.com/axinger/ax-spring-boot-demo.git)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=ax-go-web)](https://github.com/axinger/ax-go-web.git)
 
 
-> **大数据:** 
+> **大数据:**
+> 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=ax-hadoop-demo)](https://github.com/axinger/ax-hadoop-demo.git)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=ax-flink-demo)](https://github.com/axinger/ax-flink-demo.git)
 
 
-> **前端:** 
+> **前端:**
+> 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=ax-html-demo)](https://github.com/axinger/ax-html-demo.git)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=ax-vue2-demoo)](https://github.com/axinger/ax-vue2-demo.git)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=ax-vue2-demo)](https://github.com/axinger/ax-vue2-demo.git)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=ax-vue3-demo)](https://github.com/axinger/ax-vue3-demo.git)
 
 
-> **笔记:** 
+> **笔记:**
+> 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=README)](https://github.com/axinger/README.git)
+
 > **图片资源:**
+> 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=ax_picture)](https://github.com/axinger/ax_picture.git)
 
 

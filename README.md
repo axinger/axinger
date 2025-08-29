@@ -9,8 +9,8 @@
 
 > **后端:**
 > 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=ax-spring-boot2-demo)](https://github.com/axinger/ax-spring-boot2-demo.git)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=ax-spring-boot3-demo)](https://github.com/axinger/ax-spring-boot3-demo.git)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=ax-springboot2-demo)](https://github.com/axinger/ax-springboot2-demo.git)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=ax-springboot3-demo)](https://github.com/axinger/ax-springboot3-demo.git)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=ax-go-web)](https://github.com/axinger/ax-go-web.git)
 
 

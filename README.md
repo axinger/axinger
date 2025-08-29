@@ -12,6 +12,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=ax-springboot2-demo)](https://github.com/axinger/ax-springboot2-demo.git)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=ax-springboot3-demo)](https://github.com/axinger/ax-springboot3-demo.git)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=ax-go-web)](https://github.com/axinger/ax-go-web.git)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=ax_python_web)](https://github.com/axinger/ax_python_web.git)
 
 
 > **大数据:**
@@ -24,6 +25,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=ax-html-demo)](https://github.com/axinger/ax-html-demo.git)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=ax-vue2-demo)](https://github.com/axinger/ax-vue2-demo.git)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=ax-vue3-demo)](https://github.com/axinger/ax-vue3-demo.git)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=ax-electron-demo)](https://github.com/axinger/ax-electron-demo.git)
 
 
 > **笔记:**

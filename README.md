@@ -1,4 +1,6 @@
 
+<img src="https://s1.ax1x.com/2020/10/24/BZwJ8x.png" width=50>
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=axinger&show_icons=true&theme=cobalt&title_color=0xFF87CEEB)](https://github.com/axinger/axinger)
 
 
@@ -47,7 +49,7 @@
 
 
 
-<img src="https://s1.ax1x.com/2020/10/24/BZwJ8x.png" width=50>
+
 
 
 <!--

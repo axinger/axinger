@@ -1,9 +1,9 @@
-
+<!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=axinger&show_icons=true&theme=cobalt&title_color=0xFF87CEEB)](https://github.com/axinger/axinger)
 
+-->
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=axinger&theme=onedark&title=Stars,Followers)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=axinger&theme=onedark&title=Stars,Followers)](https://github.com/ryo-ma/axinger)
 
 `go` `Java` `flutter` `docker` `bigdata` `flink` `hadoop`
 

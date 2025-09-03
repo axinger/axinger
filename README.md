@@ -33,7 +33,7 @@
 
 > **笔记:**
 > 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=README)](https://github.com/axinger/README.git)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axinger&repo=ax-note)](https://github.com/axinger/ax-note.git)
 
 > **图片资源:**
 > 
